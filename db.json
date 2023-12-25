@@ -206,12 +206,12 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "name": "Event Gaming",
+      "image": "images/event.png",
       "label": "New",
-      "price": "19.99",
+      "price": "1.99",
       "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+      "description": "Often organizes events and tournaments with valuable trophies. The tournament has many players participating in many diverse forms such as team and individual matches."
     }
   ],
   "leaders": [
@@ -222,7 +222,7 @@
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
-      "description": "Our CEO, Peter, credits his hardworking East Asian immigrant parents who undertook the arduous journey to the shores of America with the intention of giving their children the best future. His mother's wizardy in the kitchen whipping up the tastiest dishes with whatever is available inexpensively at the supermarket, was his first inspiration to create the fusion cuisines for which The Frying Pan became well known. He brings his zeal for fusion cuisines to this restaurant, pioneering cross-cultural culinary connections."
+      "description": "Our CEO, Mr. Dad is a professional gamer and trainer of the game League of Legends (League of Legends). Teacher Ba used to be a professional gamer of League of Legends. After that, he became the coach of Team FFQ. Later, he gave up his coaching position to focus on livestreaming on his Youtube channel Ba Roi Beo."
     },
     {
       "id": 1,
@@ -231,7 +231,7 @@
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
-      "description": "Our CFO, Danny, as he is affectionately referred to by his colleagues, comes from a long established family tradition in farming and produce. His experiences growing up on a farm in the Australian outback gave him great appreciation for varieties of food sources. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+      "description": "Our CFO, Xemesis is a famous streamer in Saigon that is loved and followed by many young people. Besides, Xemesis is also a successful businessman and owns many internet shops, motorbike garages, etc. In particular, people often talk about Xemesis as the richest streamer with a willingness to play and spend huge amounts of money on his cars."
     },
     {
       "id": 2,
@@ -240,7 +240,7 @@
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
-      "description": "Blessed with the most discerning gustatory sense, Agumbe, our CFO, personally ensures that every dish that we serve meets his exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. He lives by his motto, You click only if you survive my lick."
+      "description": "MisThy is a Vietnamese female streamer, female video game gamer, female YouTuber and actress. With a pretty face and the ability to interact well with the audience every time she goes on air, Thy Ngoc is a Streamer who is always loved by the audience."
     },
     {
       "id": 3,
@@ -249,7 +249,7 @@
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
-      "description": "Award winning three-star Michelin chef with wide International experience having worked closely with whos-who in the culinary world, he specializes in creating mouthwatering Indo-Italian fusion experiences. He says, Put together the cuisines from the two craziest cultures, and you get a winning hit! Amma Mia!"
+      "description": "ViruSs's real name is Dang Tien Hoang, is a multi-talented, gallant Gamer - Streamer - Caster of the Vietnamese League of Legends (LMHT) village. ViruSs is originally a professional gamer, having fought for many strong teams such as Hanoi Dragon (captain), Cyzone... ViruSs is one of the gamers with the greatest influence on the League of Legends community."
     }
   ],
   "feedback": [

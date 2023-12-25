@@ -217,8 +217,8 @@
   "leaders": [
     {
       "id": 0,
-      "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "name": "Thầy Giáo Ba",
+      "image": "images/Thay giao ba.png",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -226,8 +226,8 @@
     },
     {
       "id": 1,
-      "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "name": "Xemesis",
+      "image": "images/Xemesis.png",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -235,8 +235,8 @@
     },
     {
       "id": 2,
-      "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "name": "Misthy",
+      "image": "images/Misthy.png",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -244,8 +244,8 @@
     },
     {
       "id": 3,
-      "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "name": "Viruss",
+      "image": "images/Viruss.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,

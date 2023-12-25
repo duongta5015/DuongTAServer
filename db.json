@@ -12,33 +12,33 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
-      "category": "appetizer",
+      "name": "Normal Class",
+      "image": "images/normal-class.png",
+      "category": "normal",
       "label": "",
-      "price": "1.99",
+      "price": "0.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "The basic gaming package is a gaming package that includes services such as high-configuration computers that provide experience with famous and diverse games. Gaming chair service brings gamers the same experience when playing."
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Normal Meal",
+      "image": "images/normal-meal.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Basic meals with a variety of options and providing full nutrition as well as delicious taste, giving gamers full energy when playing games."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
+      "name": "Special Meal",
+      "image": "images/special-meal.png",
       "category": "dessert",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Offering special meals with a full range of dishes, the store offers an excellent food menu that brings an extremely good experience to customers."
     }
   ],
   "comments": [

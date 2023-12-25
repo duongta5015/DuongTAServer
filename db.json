@@ -8,7 +8,7 @@
       "label": "Hot",
       "price": "6.99",
       "featured": true,
-      "description": "X-space Private Room là một dịch vụ phòng gaming net tiên tiến và hiện đại, được thiết kế đặc biệt để đáp ứng nhu cầu của người chơi game chuyên nghiệp cũng như các nhóm hoặc cá nhân yêu thích trò chơi điện tử. Dịch vụ này cung cấp không gian riêng tư, thoải mái và chất lượng cao cho mọi trải nghiệm chơi game."
+      "description": "X-space Private Room is an advanced and modern net gaming room service, specifically designed to meet the needs of professional gamers as well as groups or individuals who love video games. This service provides a private, comfortable and high-quality space for every gaming experience."
     },
     {
       "id": 1,
@@ -219,16 +219,16 @@
       "id": 0,
       "name": "Thầy Giáo Ba",
       "image": "images/Thay giao ba.png",
-      "designation": "Chief Epicurious Officer",
+      "designation": "CEO",
       "abbr": "CEO",
-      "featured": false,
+      "featured": true,
       "description": "Our CEO, Mr. Dad is a professional gamer and trainer of the game League of Legends (League of Legends). Teacher Ba used to be a professional gamer of League of Legends. After that, he became the coach of Team FFQ. Later, he gave up his coaching position to focus on livestreaming on his Youtube channel Ba Roi Beo."
     },
     {
       "id": 1,
       "name": "Xemesis",
       "image": "images/Xemesis.png",
-      "designation": "Chief Food Officer",
+      "designation": "CFO",
       "abbr": "CFO",
       "featured": false,
       "description": "Our CFO, Xemesis is a famous streamer in Saigon that is loved and followed by many young people. Besides, Xemesis is also a successful businessman and owns many internet shops, motorbike garages, etc. In particular, people often talk about Xemesis as the richest streamer with a willingness to play and spend huge amounts of money on his cars."
@@ -237,7 +237,7 @@
       "id": 2,
       "name": "Misthy",
       "image": "images/Misthy.png",
-      "designation": "Chief Taste Officer",
+      "designation": "Manager",
       "abbr": "CTO",
       "featured": false,
       "description": "MisThy is a Vietnamese female streamer, female video game gamer, female YouTuber and actress. With a pretty face and the ability to interact well with the audience every time she goes on air, Thy Ngoc is a Streamer who is always loved by the audience."
@@ -246,9 +246,9 @@
       "id": 3,
       "name": "Viruss",
       "image": "images/Viruss.png",
-      "designation": "Executive Chef",
+      "designation": "Designer",
       "abbr": "EC",
-      "featured": true,
+      "featured": false,
       "description": "ViruSs's real name is Dang Tien Hoang, is a multi-talented, gallant Gamer - Streamer - Caster of the Vietnamese League of Legends (LMHT) village. ViruSs is originally a professional gamer, having fought for many strong teams such as Hanoi Dragon (captain), Cyzone... ViruSs is one of the gamers with the greatest influence on the League of Legends community."
     }
   ],

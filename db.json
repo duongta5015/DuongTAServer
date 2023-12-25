@@ -2,13 +2,13 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "name": "X-space Private Room",
+      "image": "images/X-space Private Room.png",
       "category": "mains",
       "label": "Hot",
-      "price": "4.99",
+      "price": "6.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "X-space Private Room là một dịch vụ phòng gaming net tiên tiến và hiện đại, được thiết kế đặc biệt để đáp ứng nhu cầu của người chơi game chuyên nghiệp cũng như các nhóm hoặc cá nhân yêu thích trò chơi điện tử. Dịch vụ này cung cấp không gian riêng tư, thoải mái và chất lượng cao cho mọi trải nghiệm chơi game."
     },
     {
       "id": 1,
